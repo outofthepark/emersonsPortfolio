@@ -1,5 +1,5 @@
 import React from 'react';
-import { Navbar, NavItem, NavDropdown, MenuItem, Nav } from 'react-bootstrap';
+import { Navbar, Nav } from 'react-bootstrap';
 
 function NavBar() {
     return <Navbar bg="dark" variant="dark">
